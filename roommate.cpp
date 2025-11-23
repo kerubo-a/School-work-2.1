@@ -29,7 +29,7 @@ public:
 };
 
 int main() {
-    Roommate r1("John", 22, "playing football");
+    Roommate r1("Jane", 22, "playing netball");
     r1.introduce();
     r1.doActivity();
 
