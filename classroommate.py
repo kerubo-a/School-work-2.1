@@ -12,6 +12,6 @@ class Roommate:
 
 
 # Example
-r1 = Roommate("Jane", 22, "playing netball")
+r1 = Roommate("John", 22, "playing football")
 r1.introduce()
 r1.do_activity()
